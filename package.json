@@ -1,0 +1,20 @@
+{
+  "name": "chattrbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.3.1",
+    "ws": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
